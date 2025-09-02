@@ -1,1 +1,1 @@
-# DEM-for-diabetes-classification
+# Deep Ensemble Model for Diabetes Classification
